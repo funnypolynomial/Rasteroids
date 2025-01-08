@@ -28,6 +28,7 @@ Large LCD:
 Touch Config:  
 ![Config](https://github.com/user-attachments/assets/b93e705b-ec6f-4e62-80fb-0f48e117ca09)
 
+Project page on [Hackaday.io](https://hackaday.io/project/202157-rasteroids)  
 More photos on [Flickr](https://flic.kr/s/aHBqjBXp1h)
 
 `Rasteroids.ino` has more details about the code.
